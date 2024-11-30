@@ -1,0 +1,75 @@
+.footer {
+    background-color: #0a606c;
+    color: #ffffff;
+    padding: 20px 40px;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .logo-section img {
+    max-height: 50px;
+  }
+  
+  .download-section {
+    text-align: center;
+  }
+  
+  .download-section img {
+    margin-top: 10px;
+    height: 50px;
+  }
+  
+  .links-section div {
+    margin-bottom: 20px;
+  }
+  
+  .links-section h4 {
+    font-weight: bold;
+  }
+  
+  .links-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .links-section ul li {
+    margin: 5px 0;
+  }
+  
+  .contact-section p,
+  .newsletter-section p {
+    margin: 5px 0;
+  }
+  
+  .newsletter-section input {
+    padding: 5px;
+    margin-right: 5px;
+  }
+  
+  .newsletter-section button {
+    padding: 5px 10px;
+    background-color: #00a676;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    border-top: 1px solid #ffffff40;
+  }
+  
+  .footer-bottom a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  
